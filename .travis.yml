@@ -1,9 +1,9 @@
 language: php
 
-cache:
-  directories:
-    - .phpunit
-    - $HOME/.composer/cache/files
+#cache:
+#  directories:
+#    - .phpunit
+#    - $HOME/.composer/cache/files
 
 php:
   - 7.2
